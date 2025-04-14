@@ -175,4 +175,8 @@ This project supports Google Colab.
 
 ---
 
-> Built with purpose to enhance student learning outcomes through AI 🧠
+## 📬 Contact
+
+Created by Rahul Maurya 
+📧 Email: raahulmaurya2@gmail.com  
+🔗 GitHub: @raahulmaurya1
