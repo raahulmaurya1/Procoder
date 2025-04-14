@@ -17,7 +17,16 @@ An intelligent system that combines **automated assignment grading** with **clas
 - 📹 **Real-Time Monitoring**: Use webcam for live classroom mood tracking
 - 📬 **Detailed Feedback**: Personalized suggestions for academic improvement
 
+
+  <img src="https://github.com/raahulmaurya1/Procoder/blob/f766861df5dba890cc8df0e8732efdd02dcb0096/Feature.jpg" width="1000"/>
+
 ---
+
+
+
+## 🏗️ Architecture
+
+<img src="https://raw.githubusercontent.com/raahulmaurya1/Procoder/48f27a4667fa9c6a8b4663116a5fd765d5bd0996/diagram-export-4-5-2025-10_26_12-PM.png" alt="System Architecture" width="700"/>
 
 ## 🛠️ Installation
 
@@ -112,19 +121,19 @@ face_detect()
 **Recommendation**:  
 Students are engaged – great time for interactive or new concepts!
 
----
-
-## 🏗️ Architecture
-
-<img src="https://raw.githubusercontent.com/raahulmaurya1/Procoder/48f27a4667fa9c6a8b4663116a5fd765d5bd0996/diagram-export-4-5-2025-10_26_12-PM.png" alt="System Architecture" width="700"/>
 
 ---
 
-## 📸 Output Snapshots
 
-| Real-Time Output | Emotion Detection | Face Detection |
-|------------------|-------------------|----------------|
-| <img src="https://raw.githubusercontent.com/raahulmaurya1/Procoder/6aa3bd98bf85364346e95b51bec1f154d1c7564e/Screenshot%202025-04-06%20225311.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/raahulmaurya1/Procoder/48f27a4667fa9c6a8b4663116a5fd765d5bd0996/face_detect.png" width="200"/> | ✔️ |
+## 🎥 Real-Time Emotion & Face Detection Output
+
+🖼️ **Real-Time Output:**  
+<img src="https://raw.githubusercontent.com/raahulmaurya1/Procoder/6aa3bd98bf85364346e95b51bec1f154d1c7564e/Screenshot%202025-04-06%20225311.jpg" width="1000"/>
+
+🧠 **Emotion Detection:**  
+<img src="https://raw.githubusercontent.com/raahulmaurya1/Procoder/48f27a4667fa9c6a8b4663116a5fd765d5bd0996/face_detect.png" width="600"/>
+
+
 
 ---
 
