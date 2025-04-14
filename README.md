@@ -150,7 +150,7 @@ Students are engaged – great time for interactive or new concepts!
 ## 📋 Requirements
 
 - Python 3.7+
-- All dependencies listed in [`requirements.txt`](requirements.txt)
+- All dependencies listed in [`requirements.txt`](requirement.txt)
 - Webcam (for real-time emotion detection)
 
 ---
